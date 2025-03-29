@@ -38,5 +38,9 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manojtarad65&show_icons=true&locale=en&layout=compact" alt="manojtarad65" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manojtarad65&theme=dracula&margin-w=15&margin-h=15&column=4" alt="Profile Trophies"/>
+</p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manojtarad65&" alt="manojtarad65" /></p>
